@@ -1,4 +1,8 @@
 Hello world 2023
 
 Media Technology 112
+<<<<<<< HEAD
 Media Kmutt
+=======
+Media Art Kmutt
+>>>>>>> MDT112
